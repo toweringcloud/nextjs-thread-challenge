@@ -1,6 +1,6 @@
-# x-clone-nextjs
+# nextjs-thread-challenge
 
-realtime social network service (mini twitter clone)
+fullstack social network web app using react v18 + next.js v14 + tailwindcss v3 + prisma + sqlite + minio
 
 ## features
 
